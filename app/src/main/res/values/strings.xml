@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Settings -->
+    <string name="pref_location_key" translatable="false">pref_location</string>
+    <string name="pref_location_title">Location</string>
+    <string name="pref_location_dialog_title">Enter your location</string>
+    <string name="pref_location_summary">Location for weather forecast.</string>
+    <string name="pref_location_default">Auckland,nz</string>
+
+    <string name="pref_temperature_unit_key" translatable="false">pref_temperature_unit</string>
+    <string name="pref_temperature_unit_title">Unit</string>
+    <string name="pref_temperature_unit_dialog_title">Pick up temperature unit</string>
+    <string name="pref_temperature_unit_celsius">Celsius</string>
+    <string name="pref_temperature_unit_fahrenheit">Fahrenheit</string>
+
+</resources>
